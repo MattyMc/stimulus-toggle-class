@@ -2,6 +2,10 @@
 
 A lightweight set of Stimulus controllers that synchronize a checkbox with the presence (or absence) of a CSS class on a group of target elements. This makes it easy to manage UI states—such as visibility or enabled/disabled status—based solely on class toggling.
 
+## Video Demo on Loom
+
+<a href="https://www.loom.com/share/7d2cb644f5d84063916d578e5f923334" target="_blank" rel="noopener noreferrer">Stimulus Toggle Class Controller</a>
+
 ## Usage
 
 Provide the controller a CSS selector to find elements, and a CSS class. If the class name is present on:
