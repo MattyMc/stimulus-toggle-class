@@ -4,7 +4,7 @@ A lightweight set of Stimulus controllers that synchronize a checkbox with the p
 
 ## Video Demo on Loom
 
-<a href="https://www.loom.com/share/7d2cb644f5d84063916d578e5f923334" target="_blank" rel="noopener noreferrer">Stimulus Toggle Class Controller</a>
+<a href="https://www.loom.com/share/7d2cb644f5d84063916d578e5f923334" target="_blank" rel="noopener noreferrer">Demo: Stimulus Toggle Class Controller</a>
 
 ## Usage
 
